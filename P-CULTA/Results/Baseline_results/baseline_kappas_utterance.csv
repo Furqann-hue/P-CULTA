@@ -1,0 +1,7 @@
+Dimension,Metric,κ,Strength,N
+Relational_Alignment,CAS,0.9917,Almost Perfect,1275
+Indirectness,CAS,0.9907,Almost Perfect,1275
+Facesaving,CAS,0.9964,Almost Perfect,1275
+Cultural_Appropriateness,CAS,0.9982,Almost Perfect,1275
+Directness_Threat,FTV,0.9951,Almost Perfect,1275
+Hierarchy_Violation,FTV,0.9873,Almost Perfect,1275
