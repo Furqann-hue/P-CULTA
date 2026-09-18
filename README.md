@@ -69,7 +69,6 @@ Each of the 306 scenarios was paired with **3 candidate responses** (918 total),
 
 Each model response (and the gold response itself) is rated by **two independent judges** on a 0–4 scale across **six sociopragmatic dimensions**:
 
-**Alignment dimensions** (does the response fit the relationship?)
 - **Relational Alignment (RA)** — calibration to the User Role → Model Role, power distance, register, and sensitivity of the scenario
 - **Indirectness (I)** — a degree of indirectness appropriate to the relationship and topic, not indirectness for its own sake
 - **Face-saving (FS)** — whether the response protects the face of speaker and addressee, not just polite-sounding wording
